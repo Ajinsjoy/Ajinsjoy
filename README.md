@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajinsjoy
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m love codding
+- 💞️ I love codding
 - 📫 you can reach me in ajinsjoy@gmail.com
 
 <!---
